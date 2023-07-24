@@ -9,10 +9,13 @@ A medida que ir avançando nos estudos, adicionarei mais materiais, dicas, infor
 
 Acesse nossos conteúdos nos links abaixo:
 
-* Nosso Blog : [Latex Descomplicado](https://latexdescomplicado.blogspot.com/)
+* Documentação do Laravel 10.x : [Acesse aqui!](https://laravel.com/docs/10.x)
 
-* Nosso Instagram: [Instagram Latex Descomplicado](https://www.instagram.com/latexdescomplicado/) 
+* Artigo sobre proteção CSRF: [Acesse aqui!](https://acervolima.com/laravel-protecao-csrf/#google_vignette)
 
+* Artigos sobre Laravel: [Acesse aqui!](https://www.devmedia.com.br/busca/?txtsearch=laravel+&tipo=0&site=0)
+
+* Criando Migrations em Laravel: [Acesse aqui!](https://leopoletto.com/generate-laravel-migrations-from-an-existing-database/)
 &nbsp;
 &nbsp;
 # Objetivos:
