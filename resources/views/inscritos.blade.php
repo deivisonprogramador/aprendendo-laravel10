@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="{{url('assets/css/bootstrap.css')}}" rel="stylesheet" type="text/css"/>
-    <title>Candidatos Inscritos</title>
+    <title>::Candidatos Inscritos::</title>
 </head>
 <body>
 
@@ -43,7 +43,8 @@
               </div>
 
               <div class="col col-6">
-                  <input type="button" id="btnExcluir" value="Excluir Usuário" data-url="{{ route('excluir-candidato', $usuario->id) }}">
+                  <input class="btn btn-primary" type="button" id="btnExcluir" value="Excluir
+                  Usuário" data-url="{{ route('excluir-candidato', ['id_do_candidato'=>$dados->id]) }}" >
               </div>
 
 
@@ -62,6 +63,5 @@
 
 <script src="{{asset('assets/js/bootstrap.js')}}"></script>
 <script src="{{asset('assets/js/main.js')}}"></script>
-
 </body>
 </html>
