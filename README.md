@@ -1,5 +1,6 @@
+<h1 align="center">Materiais de Estudos</h1>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
+&nbsp;
 
 # Material Laravel:
 
@@ -18,11 +19,13 @@ Acesse nossos conteúdos nos links abaixo:
 * Criando Migrations em Laravel: [Acesse aqui!](https://leopoletto.com/generate-laravel-migrations-from-an-existing-database/)
 &nbsp;
 &nbsp;
+
+
 # Objetivos:
-Estes materiais são para ajudar a alunos e professores ou quaquer pessoa que esteja estudando LaTex.
+Estes materiais são para ajudar a alunos e professores ou quaquer pessoa que esteja estudando Laravel.
 
 
-O objetivo aqui é, compartilhar o conhecimento e, além disso, se alguém interessar, pode dar uma força e melhorar o conteúdo do material. Seri grato pela força e apoio, caso alguém possa ajudar a melhorar esse material.
+O objetivo aqui é, compartilhar o conhecimento e, além disso, se alguém interessar, pode dar uma força e melhorar o conteúdo do material. Serei grato pela força e apoio, caso alguém possa ajudar a melhorar esse material.
 
 
 É permitida a reprodução total ou parcial **desde que indicada a autoria**.
